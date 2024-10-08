@@ -1,0 +1,6 @@
+[submodule "JET-Candles-Hardware"]
+	path = JET-Candles-Hardware
+	url = https://github.com/JustEnoughTechnology/JET-Candles-Hardware.git
+[submodule "JET-Candles-Software"]
+	path = JET-Candles-Software
+	url = https://github.com/JustEnoughTechnology/JET-Candles-Software.git
